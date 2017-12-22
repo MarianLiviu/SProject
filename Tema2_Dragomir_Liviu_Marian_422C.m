@@ -1,5 +1,5 @@
 %Nume: Dragomir Liviu Marian  Numar: 8
-
+%Grupa 422C
 %Durata semnalelor D = 22
 %Numar de coeficienti = 50
 
